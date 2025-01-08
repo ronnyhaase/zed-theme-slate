@@ -1,0 +1,7 @@
+id = "slate-theme"
+name = "Slate Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ronny Haase <ronnyhaase@fastmail.com>"]
+description = "A beautiful theme for Zed, based on the wonderful Tailwind color scheme."
+repository = "https://github.com/ronnyhaase/zed-slate-theme"
